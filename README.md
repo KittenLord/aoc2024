@@ -1,0 +1,1 @@
+doing this year's aoc to get some practice in Rust and Emacs (worst decision in my life)
